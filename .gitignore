@@ -1,0 +1,19 @@
+# Ignore environment variables
+.env
+.env.*
+
+# Ignore build outputs
+bin/
+obj/
+
+# Ignore user-specific files
+*.user
+*.rsuser
+*.suo
+
+# Ignore IDE-specific directories (e.g., Visual Studio, Rider)
+.vscode/
+.idea/
+
+# Ignore other temporary files
+*.log
